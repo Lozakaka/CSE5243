@@ -12,9 +12,11 @@ Docker Desktop: Make sure you have Docker Desktop installed on your machine. You
 4. Access Jupyter Notebook: Once the containers are up and running, open a web browser and go to the following link:
 `http://localhost:8888/`
 
-5. Open and Run Lab Notebook: In the Jupyter Notebook interface, navigate to the lab1.ipynb file and open it. Run all cells in the notebook to execute the code and complete the lab.
+5. input password for the Jupyter Notebook with `cse5243`
 
-6. Finish: Once you have completed the lab exercises, you can stop the Docker containers by running:
+6. Open and Run Lab Notebook: In the Jupyter Notebook interface, navigate to the lab1.ipynb file and open it. Run all cells in the notebook to execute the code and complete the lab.
+
+7. Finish: Once you have completed the lab exercises, you can stop the Docker containers by running:
 `docker-compose down`
 
 ### Additional Notes
