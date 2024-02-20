@@ -23,3 +23,6 @@ Docker Desktop: Make sure you have Docker Desktop installed on your machine. You
 Make sure to keep the Docker Desktop running while working on the lab.
 If you encounter any issues or have questions, refer to the lab instructions or consult the provided documentation.
 Enjoy your sentiment analysis lab experience!
+
+### PDF Link:
+please refer to the newest version of readme in pdf file [here](https://docs.google.com/document/d/1IncHtYconqDoXNlIRxwlgtyAe7hYl21LbtX9Sbz_cTo/edit?usp=sharing)
